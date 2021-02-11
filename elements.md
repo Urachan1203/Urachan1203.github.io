@@ -6,7 +6,7 @@ feature_image: "img/top/jpg"
 # feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: ""
 # excerpt: "A demo of Markdown and HTML includes"
-aside: true
+# aside: true
 ---
 
 電気電子情報工学科の東浦圭亮（ひがしうら けいすけ）です。
