@@ -9,6 +9,8 @@ excerpt: ""
 
 名古屋大学工学部電気電子情報工学科の東浦圭亮（ひがしうら けいすけ）です。
 
+{% include button.html text="Github" icon="github" link="https://github.com/Urachan1203" color="#0366d6" %}
+
 ## Profile
 
 - 東浦 圭亮（ひがしうら けいすけ）
