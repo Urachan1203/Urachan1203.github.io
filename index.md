@@ -25,3 +25,8 @@ Keisuke HIGASHIURA is a Bachelor student in the Department of Electrical Enginee
 ## Deliverables
 
 - [NUEE_Notify](https://twitter.com/nuee_notify)
+
+## Hobby
+- Photo
+- Guitar
+- Programming
