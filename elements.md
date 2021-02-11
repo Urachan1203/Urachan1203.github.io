@@ -1,37 +1,13 @@
 ---
-title: About me
+title: Elements
 feature_text: |
-  ## こんにちは！
-feature_image: "img/top.jpg"
+  A demo of Markdown and HTML includes
+feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
-# aside: true
+aside: true
 ---
 
-電気電子情報工学科の東浦圭亮（ひがしうら けいすけ）です。
-
-{% include button.html text="Github" icon="github" link="https://github.com/Urachan1203" color="#0366d6" %}
-
-## プロフィール
-
-- 東浦圭亮（ひがしうら けいすけ）
-- 兵庫県立神戸高等学校（2015.4 ～ 2018.3）
-- 名古屋大学 工学部 電気電子情報工学科（2018.4 ～）
-
-## スキル, 資格
-- C/C++
-- Python
-
-## 成果物
-
-- [NUEE_Notify](https://twitter.com/nuee_notify)
-
-## 趣味
-- 写真
-- ギター
-- プログラミング
-
-
-<!-- # Heading 1
+# Heading 1
 
 ## Heading 2
 
@@ -165,4 +141,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-``` -->
+```
