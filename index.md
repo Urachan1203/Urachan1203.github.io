@@ -3,18 +3,30 @@ title: About me
 feature_text: |
   ## Hello!
 feature_image: "img/top.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.ひ
 ---
 
 Keisuke HIGASHIURA is a Bachelor student in the Department of Electrical Engineering, Electronics and Information Engineering, School of Engineering, Nagoya University, Japan.
 
 {% include button.html text="Github" icon="github" link="https://github.com/Urachan1203" color="#0366d6" %}
 
-## Profile
+## Features
 
-- 東浦圭亮（ひがしうら けいすけ）
-- 名古屋大学 工学部 電気電子情報工学科（2018.4～）
-- 
+- Available as a **theme gem** and **GitHub Pages** theme
+- Clear and elegant design that can be used out of the box or as solid starting point
+- Tested in all major browsers, including **IE and Edge**
+- Built in **Service Worker** so it can work offline and on slow connections
+- **Configurable colours** and typography in a single settings file
+- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
+- Solid **typographic framework** from [Sassline](https://sassline.com/)
+- Configurable navigation via a single file
+- Modular Jekyll components
+- Post category support in the form of a single post index page grouped by category
+- Built in live search using JavaScript
+- **Contact form** built in using [Formspree](https://formspree.io/)
+- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
+- Has 9 of the most popular networks as performant sharing buttons
+- Has documentation
 
 ## Examples
 
