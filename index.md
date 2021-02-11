@@ -3,7 +3,7 @@ title: About me
 feature_text: |
   ## Hello!
 feature_image: "img/top.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: ""
 ---
 
 名古屋大学工学部 電気電子情報工学科の東浦圭亮です。
