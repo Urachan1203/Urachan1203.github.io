@@ -1,5 +1,5 @@
 ---
-title: Elements
+title: About me
 feature_text: |
   A demo of Markdown and HTML includes
 # feature_image: "img/top.jpg"

@@ -2,7 +2,7 @@
 title: About me
 feature_text: |
   ## Hello!
-feature_image: "img/top.jpg"
+feature_image: "https://urachan1203.github.io/img/top.jpg"
 excerpt: ""
 ---
 
