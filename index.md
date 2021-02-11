@@ -21,3 +21,7 @@ Keisuke HIGASHIURA is a Bachelor student in the Department of Electrical Enginee
 ## Skill
 - C/C++
 - Python
+
+## Deliverbles
+
+- [NUEE_Notify](https://twitter.com/nuee_notify)
