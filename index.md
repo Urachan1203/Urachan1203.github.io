@@ -6,7 +6,7 @@ feature_image: "img/top.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Keisuke HIGASHIURA is a Bachelor student in the Department of Electrical Engineering, Electronics and Information Engineering, School of Engineering, Nagoya University, Japan.
+名古屋大学工学部 電気電子情報工学科の東浦圭亮です。Keisuke HIGASHIURA is a Bachelor student in the Department of Electrical Engineering, Electronics and Information Engineering, School of Engineering, Nagoya University, Japan.
 
 {% include button.html text="Github" icon="github" link="https://github.com/Urachan1203" color="#0366d6" %}
 
