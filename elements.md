@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  こんにちは！
+  ## こんにちは！
 feature_image: "https://urachan1203.github.io/img/top.jpg"
 excerpt: ""
 # aside: true
