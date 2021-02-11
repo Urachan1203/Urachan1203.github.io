@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  ## こんにちは！
+  ## Hello!
 feature_image: "img/top.jpg"
 # feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: ""
