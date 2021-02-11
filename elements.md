@@ -1,10 +1,9 @@
 ---
 title: About me
 feature_text: |
-  ## Hello!
+  ## こんにちは！
 feature_image: "img/top.jpg"
-excerpt: ""
-# excerpt: "A demo of Markdown and HTML includes"
+excerpt: "A demo of Markdown and HTML includes"
 # aside: true
 ---
 
