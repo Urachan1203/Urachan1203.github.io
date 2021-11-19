@@ -1,0 +1,4 @@
+---
+layout: ja
+title: "JP"
+---
