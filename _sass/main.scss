@@ -12,3 +12,10 @@ body {
 body a {
   color: $linkColor
 }
+
+
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 800px;
+}
